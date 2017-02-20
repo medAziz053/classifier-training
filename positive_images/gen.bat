@@ -1,0 +1,1 @@
+dir "*.jpg" /ON /B > C:/projects/clusters/opencv-haar-classifier-training/positives.txt
